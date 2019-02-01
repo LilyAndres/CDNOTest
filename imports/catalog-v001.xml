@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1548974100551" name="file://localhost/home/lily/Documents/CDNOTest/imports/bfo_CDNOTest_import_module.owl" uri="bfo_CDNOTest_import_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1548974100551" name="file://localhost/home/lily/Documents/CDNOTest/imports/chebi_CDNOTest_import_module.owl" uri="chebi_CDNOTest_import_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1548974100551" name="file://localhost/home/lily/Documents/CDNOTest/imports/pato_CDNOTest_import_module.owl" uri="pato_CDNOTest_import_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1548974100551" name="file://localhost/home/lily/Documents/CDNOTest/imports/po_CDNOTest_import_module.owl" uri="po_CDNOTest_import_module.owl"/>
+    </group>
+</catalog>
